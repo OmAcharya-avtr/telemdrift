@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "TelemDrift"
+abstract: "Streaming change detection on a univariate telemetry channel scored at equal operating point — Page-Hinkley, CUSUM, EWMA, windowed Kolmogorov-Smirnov and an ADWIN-style adaptive window, each with a stated threshold-setting procedure, compared by ARL0 and detection delay with confidence intervals and by the delay-versus-false-alarm trade-off curve rather than at default thresholds, including every detector's behaviour on a transient spike that should not alarm; learned windowed-feature detector against the analytic detectors at equal ARL0."
+type: software
+authors:
+  - family-names: "Acharya"
+    given-names: "Om"
+    alias: "OmAcharya-avtr"
+repository-code: "https://github.com/OmAcharya-avtr/telemdrift"
+license: "Apache-2.0"
+version: "0.1.0"
+date-released: "2026-08-30"
+keywords:
+  - aerospace
+  - testing
